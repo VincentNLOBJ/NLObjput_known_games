@@ -1,7 +1,8 @@
 ## Naomi Library
 
 Naomi Library were developed by AM2 division, extensively used by SEGA between 1999-2001 in SEGA Naomi arcade hardware and SEGA Dreamcast.
-Currently there are two known NaomiLib versions: NLOBJPUT Ver.0.99 and 0.8
+`NAOMI Kunoichi SDK Ver.2.02` is the only known and unreleased SDK bound to this library.
+Naomi games most known strings are: `NLOBJPUT Ver.0.99` and `0.8`.
 
 ## Known Games
 
